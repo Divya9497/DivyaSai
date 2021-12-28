@@ -2,8 +2,10 @@ package main
 
 import "fmt"
 
+var x = 42
+
 func main() {
-	x := 42
+
 	y := "Divya Sai"
 	z := true
 

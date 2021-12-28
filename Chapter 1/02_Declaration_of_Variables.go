@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 var (
-	x int    = 123
-	y string = "dsp"
-	z bool   = true
+	x int
+	y string
+	z bool
 )
 
 func main() {
